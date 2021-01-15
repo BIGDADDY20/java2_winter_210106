@@ -1,16 +1,3 @@
-## 추상 클래스(Abstract Class)
-추상클래스 설명하기  
-https://docs.google.com/document/d/1XRRSwdXBNRf839ZRbGN3-A3rghc6or-eGwrg_uYT-nc/edit
-
-## 추상 클래스 예제
-- [예제1-Animal](ex01/Animal.java): 부모클래스
-- [예제1-Dog](ex01/Dod.java): 자식클래스
-- [예제1-Tiger](ex01/Tiger.java): 자식클래스
-- [예제1-AnimalTest](ex01/AnimalTest.java): 테스트 클래스
-
-- [문제1](quiz01/README.md): 추상클래스(컨버터)
-
---- 학생 보여주기 ---
 ## 추상 메소드(Abstract Method)
 - 상속 기반
 - 부모 클래스에서는 구현하지 않고, 자식 클래스에서 반드시 구현해야 하는 메소드이다.

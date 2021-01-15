@@ -1,18 +1,4 @@
 ## 다형성(Polymorphism)
-다형성 설명하기  
-https://docs.google.com/document/d/1vFtwY4EsPPiykQ1sXelmsPcCIuGcZTBKndz5V-eQl6A/edit
-
-## 다형성 예제
-- [예제1-Animal](ex01/Animal.java): 부모클래스
-- [예제1-Cat](ex01/Cat.java): 자식클래스
-- [예제1-Dog](ex01/Dod.java): 자식클래스
-- [예제1-AnimalTest](ex01/AnimalTest.java): 테스트 클래스
-
-- [문제1](quiz01/README.md): 다형성, 업캐스팅/다운캐스팅(고양이, 강아지)
-- [문제2](quiz02/README.md): 다형성, 업캐스팅/다운캐스팅(도형)
-
---- 학생 보여주기 ---
-## 다형성(Polymorphism)
 - 상속 기반  
 - 다형성의 예
   - 과일: 사과, 귤, 포도, 딸기

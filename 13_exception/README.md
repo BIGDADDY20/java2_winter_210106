@@ -1,11 +1,3 @@
-## Exception
-Exception 설명하기  
-https://docs.google.com/document/d/1VfR74-eWCwFWuli0ZZq5qo29MtBf4J_KOoj04Qv1gKk/edit
-
-## Exception 예제
-- [예제1](ex01/Ex01.java): 예외처리 문법   
-
---- 학생 보여주기 ---
 ## 예외처리(Exception)
 - 예상치 못한 상황에 대한 처리를 하는 것
 

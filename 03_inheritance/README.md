@@ -1,17 +1,4 @@
 ## 상속(Inheritance)
-상속 설명하기  
-https://docs.google.com/document/d/1-cwCcMl8bQlcDJjXAfbxhDpsYb9McyK8QAAR-HYGGyI/edit
-
-## 상속 예제
-- [예제1-Person](ex01/Person.java): 부모클래스
-- [예제1-Student](ex01/Student.java): 자식클래스
-- [예제1-InheritanceTest](ex01/InheritanceTest.java): 테스트 클래스
-
-- [문제1](quiz01/README.md): 문제 1개(pen). 상속 구조로 정리 
-- [문제2](quiz02/README.md) : 비만도 문제1개. 상속 구조 구현
-
---- 학생 보여주기 ---
-## 상속(Inheritance)
 - `extends` 키워드를 사용하여 부모 클래스로부터 상속한다.  
 - **다중 상속 불가**
 - 한 번에 하나의 클래스만 extends 가능하지만, A -> B -> C 구조로 상속은 가능하다.
