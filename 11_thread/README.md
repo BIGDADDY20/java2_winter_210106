@@ -1,16 +1,3 @@
-## 쓰레드(Thread)
-Thread 설명하기  
-https://docs.google.com/document/d/1-oYG4YTjAv-XE3th3P_vT1vcXabJb82tFDhrJ6q9tEA/edit
-
-## Thread 기본 사용법 예제
-- [예제1-ThreadExtends](ex01/ThreadExtends.java): Thread를 상속받아 사용
-- [예제1-ThreadImplements](ex01/ThreadImplements.java): Runnable 구현
-- [예제1-ThreadTest](ex01/ThreadTest.java): 싱글/멀티쓰레드 테스트 및 join
-
-- [문제1](quiz01/README.md): 동물원
-- [문제2](quiz02/README.md): 스톱워치
-
---- 학생 보여주기 ---
 ## 프로세스(Process)
 - **실행 중인 프로그램**
 
