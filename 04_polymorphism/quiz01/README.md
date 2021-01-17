@@ -31,5 +31,5 @@ public static void main(String[] args) {
 
 [정답 보기: Animal.java](Animal.java)  
 [정답 보기: Cat.java](Cat.java)  
-[정답 보기: Dog.java](Dog.java)
+[정답 보기: Dog.java](Dog.java)  
 [정답 보기: AnimalTest.java](AnimalTest.java)
