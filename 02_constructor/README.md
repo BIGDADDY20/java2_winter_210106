@@ -87,7 +87,9 @@ public String getName() {
 ### [예제 1](ex01) : 생성자와 접근 제어자
 
 ## 문제
-### [문제 1](quiz01/README.md) : 생성자와 접근 제어자
-### [문제2](quiz02/README.md): 생성자, 접근제어자
-### [문제3](quiz03/README.md): 생성자, 접근제어자
-### [문제4](quiz04/README.md): 생성자, 접근제어자
+### [문제1](quiz01/README.md) : 생성자와 접근 제어자(사각형 넓이, 둘레 구하기)
+### [문제2](quiz02/README.md) : 생성자와 접근 제어자
+### [문제3](quiz03/README.md) : 생성자와 접근 제어자
+### [문제4](quiz04/README.md): OMR CARD 고급문제
+### [문제5](quiz05/README.md): LOTTO 고급문제
+### [문제6](quiz06/README.md): TRUMPCARD 고급문제
