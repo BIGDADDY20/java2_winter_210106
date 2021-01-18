@@ -23,5 +23,5 @@
 ```
 
 [정답 보기: OmrCard.java](OmrCard.java)  
-[정답 보기: OmrCardReader.java](OmrCardReader.java)
+[정답 보기: OmrCardReader.java](OmrCardReader.java)  
 [정답 보기: OmrCardTest.java](OmrCardTest.java)
