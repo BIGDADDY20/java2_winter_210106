@@ -19,6 +19,8 @@
 ### [문제 2](02_constructor/quiz02/README.md) : 객체지향 응용
 ### [문제 3](02_constructor/quiz03/README.md) : 객체지향 응용
 ### [문제 4](02_constructor/quiz04/README.md) : 객체지향 응용
+### [문제 5](02_constructor/quiz05/README.md) : 객체지향 응용
+### [문제 6](02_constructor/quiz06/README.md) : 객체지향 응용
 
 # 03. 상속(Inheritance)
 
