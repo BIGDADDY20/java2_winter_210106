@@ -16,9 +16,10 @@ public class Ex01 {
 		System.out.println(number3);
 		
 		Integer number5 = new Integer(5);
-		System.out.println("number3 == number5:" + (number3 == number5));
+		System.out.println("number3 == number5:" + (number3 == number5)); // false: 주소 비교
 		
-		Integer number4 = 5;
+		Integer number4 = 5;  // Heap 메모리의 constant pool에 저장되어 재활용 된다.
+		System.out.println(number2 == number4); // true: constant pool 주소 일치
 		
 		// 기본자료형과 비교를 하면 값을 비교한다.
 		// 객체끼리 비교를 하면 주소값을 비교한다. => 객체의 값을 비교할 때는 반드시!!! equals 메소드를 사용한다.
