@@ -16,7 +16,6 @@
 		myCharacter.put("직업", "마법사");
 		myCharacter.put("서버", "B");
 		myCharacter.put("레벨", "38");
-		charaters.add(myCharacter);
 		
 		// [{닉네임=닉네임1, 직업=전사, 레벨=5}, {닉네임=닉네임1, 직업=전사, 레벨=5}...]
 		List<Map<String, String>> charaters = new ArrayList<>();
